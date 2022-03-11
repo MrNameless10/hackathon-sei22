@@ -7,6 +7,13 @@ Foi uma maratona de programação na qual hackers se reúnem por horas, dias ou 
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/MrNameless10">
+            <img src="https://avatars.githubusercontent.com/u/61701003?v=4" width="100;" alt="hoges"/>
+            <br />
+            <sub><b>Mike Ângelo Freitas</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/quantik-git">
             <img src="https://avatars.githubusercontent.com/u/40385569?v=4" width="100;" alt="hoges"/>
             <br />
